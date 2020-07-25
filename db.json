@@ -1,0 +1,56 @@
+{
+  "advertiserApi": [
+    {
+      "id": 1,
+      "adName": "amazon",
+      "cpi": "100",
+      "adUrl": "https://picsum.photos/536/354"
+    },
+    {
+      "id": 2,
+      "adName": "apple",
+      "cpi": "105",
+      "adUrl": "https://picsum.photos/536/354"
+    },
+    {
+      "id": 3,
+      "adName": "oneplus",
+      "cpi": "110",
+      "adUrl": "https://picsum.photos/536/354"
+    },
+    {
+      "id": 4,
+      "adName": "nokia",
+      "cpi": "115",
+      "adUrl": "https://picsum.photos/536/354"
+    },
+    {
+      "id": 5,
+      "adName": "samsung",
+      "cpi": "120",
+      "adUrl": "https://picsum.photos/536/354"
+    }
+  ],
+  "adClicked": [
+    {
+      "id": 1,
+      "count": 0
+    },
+    {
+      "count": 2,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "count": 0
+    }
+  ]
+}
