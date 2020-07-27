@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "preinstall": "npm install -g json-server && json-server --watch dbjson.json",
+    "preinstall": "npm install -g json-server && json-server --watch dbjson.json &",
     "heroku-postbuild": "ng build --prod"
   },
   "private": true,
