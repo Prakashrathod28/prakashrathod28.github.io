@@ -1,0 +1,10 @@
+
+  <div class="card-container">
+
+    <div *ngFor="let url of urls" >
+      <a href={{url.adUrl}} target="_blank" (click)="onAdClick(url)"><img src={{url.adUrl}}  height=300 width=300 /></a>
+    </div>
+  </div>
+
+
+<router-outlet></router-outlet>

@@ -1,0 +1,39 @@
+{
+  "advertiserApi": [
+    {
+      "id": 1,
+      "adName": "samsung",
+      "cpi": 100,
+      "adUrl": "https://image.shutterstock.com/image-photo/milan-italy-february-18-2017-600w-585693446.jpg",
+      "count": 0
+    },
+    {
+      "adName": "nokia",
+      "cpi": 105,
+      "adUrl": "https://image.shutterstock.com/z/stock-photo-december-berlin-the-logo-of-the-brand-nokia-berlin-171217538.jpg",
+      "id": 2,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "adName": "oneplus",
+      "cpi": 110,
+      "adUrl": "https://image.shutterstock.com/image-photo/june-11-2019-brazil-this-260nw-1421830127.jpg",
+      "count": 0
+    },
+    {
+      "adName": "apple",
+      "cpi": 115,
+      "adUrl": "https://image.shutterstock.com/image-photo/frankfurt-germany-march-2017-apple-600w-611496041.jpg",
+      "id": 4,
+      "count": 7
+    },
+    {
+      "adName": "amazon",
+      "cpi": 120,
+      "adUrl": "https://image.shutterstock.com/z/stock-photo-iasi-romania-april-amazon-logo-of-company-for-logistics-and-transport-iasi-romania-1077977219.jpg",
+      "id": 5,
+      "count": 4
+    }
+  ]
+}
